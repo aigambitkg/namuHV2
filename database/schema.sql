@@ -1,1 +1,0 @@
--- Datenbankschema für Karriere- und Bewerbungstool 
